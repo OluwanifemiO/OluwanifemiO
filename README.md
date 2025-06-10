@@ -1,4 +1,4 @@
- Software Developer
+ Fullstack Web Developer
  ogidamanifemi@gmail.com
 
 <!---
